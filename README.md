@@ -251,7 +251,7 @@ Website navigation uses anchor links to the following sections:
 - Develop -- Sofia -- SofiiiaSk
 - Develop -- Eva -- 2006112014a-ai
 - Develop -- Ivan -- Ivan-Kyznetsov
-- Develop -- Sergii -- slepecsergejj
+- Develop -- Serhii -- slepecsergejj
 - Develop -- Nazarii -- nazariisaul
 
 Booksy was developed as a collaborative team project.
