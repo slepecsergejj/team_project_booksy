@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 Booksy
 
 Booksy is a responsive, single-page online bookstore website. It allows users to browse books by category, view detailed book information, explore customer reviews, discover upcoming events, and find the bookstore's contact information and location.
@@ -254,3 +255,6 @@ Website navigation uses anchor links to the following sections:
 - Develop -- Nazarii -- nazariisaul
 
 Booksy was developed as a collaborative team project.
+=======
+# team_project_booksy
+>>>>>>> a52b9915808fabe886a2c0cb2031986e34e83bcc
